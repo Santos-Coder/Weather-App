@@ -1,0 +1,13 @@
+.weather-data {
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+}
+.weather-data span {
+    margin: 0 10px;
+    font-size: 25px;
+}
+.weather-data p:nth-child(3) {
+    font-size: 35px;
+    margin: 5px 0
+}
